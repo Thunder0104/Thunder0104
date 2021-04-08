@@ -2,7 +2,7 @@
 - 👀 I’m interested in problem solving
 - 🌱 I’m currently learning **Competitive Programming and Machine Learning**
 - 💞️ I’m looking to collaborate on Coding Competitions
-- 📫 How to reach me 
+- 📫 How to reach me https://www.linkedin.com/in/jayanth-gollapudi
 
 <!---
 Thunder0104/Thunder0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
