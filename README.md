@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I’m Jayanth</h1>
 - 👀 I’m interested in problem solving<br>
 - 🌱 I’m currently learning <i>Competitive Programming and Machine Learning</i><br>
-- 💞️ I’m looking to collaborate on Coding Competitions<br>
+- 💞️ I’m looking to collaborate on Competitive Programming<br>
 - 📫 How to reach me https://www.linkedin.com/in/jayanth-gollapudi<br>
 
 <!---
