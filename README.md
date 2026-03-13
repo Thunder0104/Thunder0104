@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hi, I’m Jayanth Gollapudi </h1>
+<h1 align="center">👋 Hi, I’m Jay </h1>
 - 👀 I’m interested in problem solving<br>
 - 🌱 I’m currently learning <i>Competitive Programming and Machine Learning</i><br>
 - 💞️ I’m looking to collaborate on Competitive Programming<br>
-- 📫 How to reach me https://www.linkedin.com/in/jayanthgollapudi/<br>
 
 <!---
 Thunder0104/Thunder0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
