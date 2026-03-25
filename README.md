@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I’m Jay </h1>
+<h1 align="center">👋 Hi, I’m Sai J </h1>
 - 👀 I’m interested in problem solving<br>
 - 🌱 I’m currently learning <i>Competitive Programming and working on <i>backend systems and AI-driven systems</i><br>
 - 💞️ I’m looking to collaborate on Competitive Programming<br>
