@@ -1,13 +1,24 @@
-<h1 align="center">👋 Hi, I’m Jayant G </h1>
-- 👀 I’m interested in problem solving<br>
-- 🌱 I’m currently learning <i>Competitive Programming and working on <i>backend systems and AI-driven systems</i><br>
-- 💞️ I’m looking to collaborate on Competitive Programming<br>
+# Hi, I'm Jayant G 👋
 
-<!---
-Thunder0104/Thunder0104 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+MS Computer Science @ Rutgers University | Software Engineer
 
-## 📊 GitHub Stats
-![Jayanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thunder0104&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thunder0104&layout=compact&theme=radical)
--->
+I build scalable backend systems, AI-driven applications, and data pipelines with a focus on reliability and performance.
+
+## 🚀 Projects
+
+- **Hybrid Agentic–RAG Healthcare Assistant**  
+  Built a healthcare chatbot combining a 93% accurate ML prediction model with a RAG pipeline and React UI for multi-session, real-time guidance.
+
+- **LLM-Based Data Cleaning Pipeline (NYC 311)**  
+  Developed an LLM-powered system to detect and correct geospatial data inconsistencies across 22K+ records, improving validated accuracy to 88.5%.
+
+- **Car Dealership Management System**  
+  Full-stack application using React, Node.js, and MongoDB with optimized APIs and multi-location inventory support.
+
+- **AI Navigation & Rescue Bots**  
+  Designed intelligent agents using MDP, A* search, and neural networks for optimized decision-making in dynamic environments.
+
+## 🛠 Tech Stack
+`Java` `Python` `JavaScript` `React` `Node.js` `Spring Boot`  
+`Kafka` `Spark` `Redis` `MongoDB` `PostgreSQL`  
+`AWS` `Docker` `Kubernetes`
