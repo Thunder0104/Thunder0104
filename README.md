@@ -1,4 +1,4 @@
-# Hi, I'm Jayant G 👋
+# Hi, I'm Jayanth Gollapudi 👋
 
 MS Computer Science @ Rutgers University | Software Engineer
 
